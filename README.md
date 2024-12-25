@@ -50,11 +50,11 @@ Figure 02  Encoder 8 * 3
 
 ![3](https://github.com/user-attachments/assets/a1742475-bc87-48f6-8e5c-44c272bb97c3)
 
-**RTL LOGIC FOR Encoder 8 To 3 IN DATAFLOW MODELLING**
+**RTL LOGIC FOR ENCODER 8 TO 3 IN DATAFLOW MODELLING**
 
 ![4](https://github.com/user-attachments/assets/307a8e77-d418-46d9-9827-17a3f4108db8)
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 IN DATAFLOW MODELLING**
+**TIMING DIGRAMS FOR ENCODER 8 TO 3 IN DATAFLOW MODELLING**
 
 ![5](https://github.com/user-attachments/assets/d2c28d68-6cca-4741-81cf-2433397f2769)
 
